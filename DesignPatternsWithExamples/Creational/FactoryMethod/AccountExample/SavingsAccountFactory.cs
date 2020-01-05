@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DesignPatternsWithExamples.Creational.FactoryMethod.AccountExmaple
+namespace DesignPatternsWithExamples.Creational.FactoryMethod.AccountExample
 {
     // Concrete Creator
     public class SavingsAccountFactory : ICreditUnionFactory

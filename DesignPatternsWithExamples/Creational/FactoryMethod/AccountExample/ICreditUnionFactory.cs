@@ -1,4 +1,4 @@
-﻿namespace DesignPatternsWithExamples.Creational.FactoryMethod.AccountExmaple
+﻿namespace DesignPatternsWithExamples.Creational.FactoryMethod.AccountExample
 {
     // Creator
     public interface ICreditUnionFactory

@@ -1,10 +1,9 @@
-using System;
-using DesignPatternsWithExamples.Creational.FactoryMethod.AccountExmaple;
+using DesignPatternsWithExamples.Creational.FactoryMethod.AccountExample;
 using Xunit;
 
-namespace DesignPatternsWithExmaples.Test
+namespace DesignPatternsWithExamples.Test
 {
-    public class FactoryMethodAccountExmapleTest
+    public class FactoryMethodAccountExampleTest
     {
         [Fact]
         public void GetSavingsAccount_CitiType_ReturnsCitiSavingsAccount()
